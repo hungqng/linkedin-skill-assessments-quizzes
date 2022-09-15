@@ -262,3 +262,24 @@
 - [x] Comments starting with TODO are listed in the Tasks view.
 - [ ] It creates automated email reminders of remaining tasks.
 - [ ] Comments starting with TODO are stored in the Task List view.
+
+### Q38. After opening a code file, you notice some of the syntax coloring is missing. What is the most likely problem?
+
+- [ ] The code has an error.
+- [ ] The perspective you are using is out of date.
+- [ ] The code has the wrong file delimiters.
+- [ ] The code is in a language that is too new for Eclipse to support.
+
+### Q39. Which of these is listed when searching via the Quick Access search bar?
+
+- [ ] XML attribute values
+- [ ] files in the current workspace
+- [x] all of these answers
+- [ ] Java members
+
+### Q40. When an assert fails, where can you view the expected value as compared with the actual value?
+
+- [ ] in the Debug view
+- [ ] in the Outline view
+- [ ] in the Failure Trace section of the JUnit view
+- [ ] in the console
